@@ -8,7 +8,6 @@
       "price": 4.99,
       "description": "An Outback Original! Our special onion is hand-carved, cooked until golden and ready to dip into our spicy signature bloom sauce.",
       "review": [
-        "Hello "
       ]
     },
     {
@@ -50,7 +49,7 @@
   ],
   "reviews": [
     {
-      "review": "Hello",
+      "review": "Hello ",
       "id": 2
     }
   ]
