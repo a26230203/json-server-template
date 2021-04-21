@@ -6,15 +6,17 @@
       "image": "https://olo-images-live.imgix.net/d3/d3960d9cf6354943b40c0f54b13d0255.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=350&h=233&fit=fill&fm=png32&bg=transparent&s=6918860dbaf391680f8eff88cb46f49f",
       "likes": 0,
       "price": 4.99,
-      "description" : "An Outback Original! Our special onion is hand-carved, cooked until golden and ready to dip into our spicy signature bloom sauce.",
-      "review": []
+      "description": "An Outback Original! Our special onion is hand-carved, cooked until golden and ready to dip into our spicy signature bloom sauce.",
+      "review": [
+        "Hello "
+      ]
     },
     {
       "id": 2,
       "name": "Victoria's Filet® Mignon*",
       "image": "https://olo-images-live.imgix.net/c7/c77ce662ac604913a73d1712685cec0a.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=350&h=233&fit=fill&fm=png32&bg=transparent&s=a981f5e3cae0af3546cf1fe067d90b25",
       "likes": 0,
-      "description" : "The most tender and juicy thick cut seasoned and seared. Served with two freshly made sides.",
+      "description": "The most tender and juicy thick cut seasoned and seared. Served with two freshly made sides.",
       "price": 4.99,
       "review": []
     },
@@ -23,7 +25,7 @@
       "name": "",
       "image": "",
       "likes": 0,
-      "description" : "",
+      "description": "",
       "price": 4.99,
       "review": []
     },
@@ -32,7 +34,7 @@
       "name": "",
       "image": "",
       "likes": 0,
-      "description" : "",
+      "description": "",
       "price": 4.99,
       "review": []
     },
@@ -41,14 +43,15 @@
       "name": "",
       "image": "",
       "likes": 0,
-      "description" : "",
+      "description": "",
       "price": 4.99,
       "review": []
     }
   ],
-
-  "reviews": [{
-      "id": 1,
-      "review": "as" 
-  }]
+  "reviews": [
+    {
+      "review": "Hello",
+      "id": 2
+    }
+  ]
 }
